@@ -1,0 +1,5 @@
+{
+  "name": "Fee Receipt Validator for google sheet",
+  "description": "An AI-powered application to validate student fee receipts in batches by processing a CSV file, extracting information from receipt URLs, and comparing it against student records.",
+  "requestFramePermissions": []
+}
